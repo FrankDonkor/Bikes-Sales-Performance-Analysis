@@ -3,7 +3,16 @@
 
 
 ## Table of Content
-
+- [Introduction](#Introduction)
+- [Objectives](#objectives)
+- [Data Source](#data-source)
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis and Visualization](#Data-Analysis-and-Visualization)
+- [Key Findings](#Key-Findings)
+- [Recommendations](#recommendations)
+- [Future Work](#future-work)
+- [Conclusion](#conclusion)
 
 ## Introduction
 This analysis aims to understand bike sales patterns based on demographic, geographic, and lifestyle factors. The dataset provides a comprehensive overview of bike purchases, allowing for the identification of key trends and potential areas for improvement in sales strategies.
