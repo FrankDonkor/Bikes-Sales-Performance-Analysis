@@ -50,6 +50,7 @@ IV.	Was there a relationship between the customer's education level and bicycle 
 
 ## Data Analysis and Visualization
 ![image](https://github.com/user-attachments/assets/51d647aa-fae2-4c05-a8cd-37d869dd430d)
+
 The data was visualized using pivot charts (column, bar, line) and slicers to identify trends and patterns based on various demographic, geographic and lifestyle factors.
 
 The key findings are: 
