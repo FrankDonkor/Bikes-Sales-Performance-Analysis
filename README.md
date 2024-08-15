@@ -40,13 +40,13 @@ Low income earners refers to customers who earn less than $50,000, Middle income
 •	The data was found to be clean and did not contain any missing values or errors.
 
 ## Exploratory Data Analysis
-I.	What are the general buying trends?
+I.	What were the general buying trends?
 
-II.	Which gender, age group, and region are the most likely to purchase bicycles?
+II.	Which gender, age group, and region were the most likely to purchase bicycles?
 
 III.	Did the customer's commute distance, the number of cars they own, their income, and their occupation influence their bicycle purchase?
 
-IV.	Is there a relationship between the customer's education level and bicycle purchase?
+IV.	Was there a relationship between the customer's education level and bicycle purchase?
 
 ## Data Analysis and Visualization
 ![image](https://github.com/user-attachments/assets/51d647aa-fae2-4c05-a8cd-37d869dd430d)
